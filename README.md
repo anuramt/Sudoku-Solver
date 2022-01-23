@@ -1,42 +1,24 @@
-# README Boilerplate
+# Sudoku Solver
 
-A template of README best practices to make your README simple to understand and easy to use. 
+A backtracking algorithm to solve Sudoku puzzles. 
 
 ## Table of Contents
 
-- [Installation](#installation)
 - [Usage](#usage)
-- [Support](#support)
-- [Contributing](#contributing)
-
-## Installation
-
-Download to your project directory, add `README.md`, and commit:
-
-```sh
-curl -LO http://git.io/Xy0Chg
-git add README.md
-git commit -m "Use README Boilerplate"
-```
+- [Installation](#installation)
+- [Documentation](#documentation)
 
 ## Usage
 
-Replace the contents of `README.md` with your project's:
+- Name: Sudoku Solver
+- Description: A backtracking algorithm to solve Sudoku puzzles.
+- Author: Anuram T
+- License: MIT License
 
-- Name
-- Description
-- Installation instructions
-- Usage instructions
-- Support instructions
-- Contributing instructions
-- Licence
+## Installation
 
-Feel free to remove any sections that aren't applicable to your project.
+Project is compatible with Python 3. Download sudoku_solver.py to your project directory. The module is dependent on the Python standard library copy and third-party numpy modules.
 
-## Support
+## Documentation
 
-Please [open an issue](https://github.com/fraction/readme-boilerplate/issues/new) for support.
-
-## Contributing
-
-Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and [open a pull request](https://github.com/fraction/readme-boilerplate/compare/).
+You can find the documentation [here]().
